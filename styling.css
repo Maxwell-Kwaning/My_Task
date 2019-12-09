@@ -1,0 +1,33 @@
+body{
+
+    margin: 0%;
+}
+
+.down{
+
+    padding: 25px;
+    background: white;
+    margin-bottom: 10;
+}
+
+
+.circle{
+    background: rgb(67, 71, 78);
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    color: cornsilk;
+    padding-top: 100PX
+    
+}
+
+
+img{
+
+    height:25px;
+    margin-right: 35px;
+    margin-left: 15px;
+}
